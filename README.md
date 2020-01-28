@@ -10,5 +10,7 @@ This icon pack is based on icons found in GTK98, Chicago95 and GNUStep icon pack
 <br>
 This is only an iconpack. If you want to enjoy full Windows 2000-like experience, I recommend to use this iconpack in combination with "MS Windows 9x" widget style and "Reactionary" Plasma shell theme.<br>
 <br>
+  Released packages available <a href="https://github.com/Stanton731/Memphis98/releases">here</a>.<br>
+<br>
 Enjoy!
 </p>
