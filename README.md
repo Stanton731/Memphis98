@@ -1,7 +1,7 @@
 <h1>Memphis98</h1>
-<h3>Icon pack for KDE Plasma and LXQt based on famous Windows 98/2000 icons</h3>
+<h3>Icon pack for KDE Plasma based on famous Windows 98/2000 icons</h3>
 <br>
-<img src="https://raw.githubusercontent.com/Stanton731/Memphis98/master/Preview.png" style="height: 100%;" />
+<img src="https://raw.githubusercontent.com/Stanton731/Memphis98/master/Preview.jpg" style="height: 100%;" />
 <p>
 I wasn't able to find any good looking, complete icon pack for actual KDE, that mimics look and feel of Windows 2000.<br>
 So I decided to create one.<br>
